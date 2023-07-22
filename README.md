@@ -9,3 +9,6 @@ The core code of CDAQS-SPS was SNOWIDX.R, the method described in the paper was 
 For more information, please to the papaer.
 *The Development and Application of a Novel Snow Peak Sighting Forecast System over Chengdu*
 by Chengwei LU from Chengdu Academy of Environmental Sciences and Sichuan University.
+
+>>Citation:
+Lu, Chengwei, Ting Chen, Xinyue Yang, Qinwen Tan, Xue Kang, Tianyue Zhang, Zihang Zhou, Fumo Yang, Xi Chen, and Yuancheng Wang. 2023. "Development and Application of a Novel Snow Peak Sighting Forecast System over Chengdu" Atmosphere 14, no. 7: 1181. https://doi.org/10.3390/atmos14071181
